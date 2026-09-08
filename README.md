@@ -87,17 +87,3 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 
 
 Open the Jupyter Notebook environment or python script and execute the pipeline sequentially.
-
-8. Guidelines for Academic Presentations & Canva Reports
-
-When presenting this academic research in a slide deck or visual report (e.g., via Canva), adhere to the following professional structure:
-
-Title Slide: Research Title, Author Name, Academic Department, and Institution.
-
-Introduction & Significance: The importance of employee retention analytics in modern organizational science.
-
-Data Pipeline Architecture: A visual flowchart illustrating data cleaning, transformation, and train-test splitting.
-
-Experimental Results & Discussions: Comparative presentation of ROC-AUC curves, confusion matrices, and analytical interpretations.
-
-Conclusion & Future Work: Practical enterprise applications and pathways for deep-learning or feature-engineering enhancements.
